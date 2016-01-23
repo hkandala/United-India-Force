@@ -14,16 +14,11 @@
                 <p class="contact">+91 9629342358</p>
             </div>
             <div class="col l4 s12">
-                <img src="img/contactus/pic4.png" class="z-depth-1"/>
-                <p>Prajit Datta</p>
-                <p class="contact">+91 9597363317</p>
-            </div>
-            <div class="col l4 s12">
                 <img src="img/contactus/pic5.png" class="z-depth-1"/>
                 <p>Harish Kandala</p>
                 <p class="contact">+91 9790995811</p>
             </div>
-            <div class="col l4 s12">
+            <div class="col offset-l2 l4 s12">
                 <img src="img/contactus/pic6.png" class="z-depth-1"/>
                 <p>Anjali Singh</p>
                 <p class="contact">anjalisingh629876@gmail.com</p>
