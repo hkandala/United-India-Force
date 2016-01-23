@@ -66,22 +66,6 @@
                         </tr>
                     </table>
                     <br>
-                    <h2>Aims and Objectives</h2>
-                    <p>1) Inculcating the values of patriotism towards INDIA at the root levels of public mindset, schools and colleges.</p>
-                    <p>2) Counseling centers at every nodes of the Society to enumerate personality development and emotional intelligence. </p>
-                    <p>3) Showcasing the cultural values, diverse traditions and morale ethics of INDIA.</p>
-                    <p>4) Empowerment of Women in the rural areas through small scale enterprises and self help groups.</p>
-                    <p>5) Empowerment of Youth in the rural areas through self-motivation, formal education, career guidance and higher education scholarship funding.</p>
-                    <p>6) Enhancement of cultural literacy of India.</p>
-                    <p>7) Rehabilitating the isolated sections of the society like prostitutes, beggars, eunuch and homeless people through social-entrepreneurship.</p>
-                    <p>8) Eradicating poverty of India through social entrepreneurship.</p>
-                    <p>9) Extensive rural development initiatives for education, infrastructure and resource management.</p>
-                    <p>10) Public activism and awareness against human resources' and natural resources' exploitation.</p>
-                    <p>11) Associating with the social welfare projects of Indian Government and acting as a beneficiary to the public.</p>
-                    <p>12) Relations with other Non-Governmental Organizations which work for similar causes and reasons.</p>
-                    <p>13) Civil Defense and Disaster Management Litigation.</p>
-                    <p>14) Legal Aid Clinics over every nodes of the Society.</p>
-                    <p>15) Voter Awareness Cells in rural as well as urban areas.</p>
                     <h2>About the Director General</h2>
                     <p>DG TN Suhas Tejaskanda is an extreme patriot and well-wisher of the country. He has been trained by Indian Army. He strongly believes that "Developed India can be dreamt only by achieving 'National Integrity' which lead to the start of United India FORCE". </p>
                     <img src="img/uichief.png">
