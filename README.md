@@ -1,2 +1,2 @@
-# Build For A Change
-We at Build for a Change (BFAC) aim at enabling problem solving through consorted efforts. We provide a platform for creative minds to work together on technical challenges that improve society. Encouraging students to take up socially assistive projects with consistent support from NGOs and technical mentors, and finding feasible solutions is the sole objective of BFAC.
+# United India FORCE
+UI FORCE - (United India FOR Country's Empowerment) is a community in maintaining the National Integrity of our country. The main motto of our organisation is "Unity and Patriotism". It strives for the all round development of India and works more like a comapny which provide employment opportunities and services to the general public thereby "STRENGTHENING INDIA"
